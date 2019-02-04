@@ -32,28 +32,28 @@
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549244602033,
             "changeTime": 1549244602033,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1549248055122,
-            "changeTime": 1549248055122,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "modifiedTime": 1549243307380,
+            "changeTime": 1549243307380,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1549243964231,
+            "changeTime": 1549243964231,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
             "isMetadataFile": false,
-            "size": 199,
-            "modifiedTime": 1549246703791,
-            "changeTime": 1549246703791,
-            "contentHash": "250adb563569b02fabcd556b64b3efb53056259e"
+            "state": "u"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1549243871602,
+            "changeTime": 1549243871602,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "size": 542,
-            "modifiedTime": 1549248154764,
-            "changeTime": 1549248154764,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+            "state": "u"
         }
     ],
     [
@@ -736,378 +736,209 @@
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1549244602040,
             "changeTime": 1549244602040,
-            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1549244602343,
             "changeTime": 1549244602343,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1549244602347,
             "changeTime": 1549244602347,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1549244602351,
             "changeTime": 1549244602351,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1549244602356,
             "changeTime": 1549244602356,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1549244602360,
             "changeTime": 1549244602360,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 401270,
             "modifiedTime": 1549244602403,
             "changeTime": 1549244602403,
-            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 764787,
             "modifiedTime": 1549244602414,
             "changeTime": 1549244602414,
-            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 402995,
             "modifiedTime": 1549244602459,
             "changeTime": 1549244602459,
-            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 764879,
             "modifiedTime": 1549244602470,
             "changeTime": 1549244602470,
-            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 14106,
             "modifiedTime": 1549244602480,
             "changeTime": 1549244602480,
-            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 141125,
             "modifiedTime": 1549244602521,
             "changeTime": 1549244602521,
-            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 192417,
             "modifiedTime": 1549244602530,
             "changeTime": 1549244602530,
-            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549244602336,
             "changeTime": 1549244602336,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549244602357,
             "changeTime": 1549244602357,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
         }
     ],
     [
         "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1549244602522,
             "changeTime": 1549244602522,
-            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1549244667396,
-            "changeTime": 1549244667396,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1549248055151,
-            "changeTime": 1549248055151,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1549244667395,
-            "changeTime": 1549244667395,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 330,
-            "modifiedTime": 1549248202406,
-            "changeTime": 1549248202406,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1549244667321,
-            "changeTime": 1549244667321,
-            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1549244702783,
-            "changeTime": 1549244702783,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1549244667404,
-            "changeTime": 1549244667404,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1549244667389,
-            "changeTime": 1549244667389,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 794,
-            "modifiedTime": 1549248219130,
-            "changeTime": 1549248219130,
-            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1549244667352,
-            "changeTime": 1549244667352,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1549244667382,
-            "changeTime": 1549244667382,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1549248128410,
-            "changeTime": 1549248128410,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\T824176\\Desktop\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1549248055182,
-            "changeTime": 1549248055182,
-            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8"
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a"
         }
     ]
 ]
