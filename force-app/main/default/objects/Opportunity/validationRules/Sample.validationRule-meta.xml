@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sample</fullName>
+    <active>true</active>
+    <errorConditionFormula>CONTAINS( Name ,&#39;Satheesh&#39;)</errorConditionFormula>
+    <errorMessage>Please add different opportunity name</errorMessage>
+</ValidationRule>
